@@ -1,0 +1,22 @@
+{
+    "name": "hybrid-vscode-monokai",
+    "displayName": "hybrid-vscode-monokai",
+    "description": "Monokai syntax highlighting maintaining default vscode color scheme",
+    "version": "1.0.0",
+    "publisher": "albymor",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hybrid vscode monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hybrid-vscode-monokai-color-theme.json"
+            }
+        ]
+    }
+}
