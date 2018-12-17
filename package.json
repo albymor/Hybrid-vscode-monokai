@@ -7,6 +7,15 @@
     "engines": {
         "vscode": "^1.29.0"
     },
+    "bugs": {
+        "url": "https://github.com/albymor/Hybrid-vscode-monokai/issues",
+        "email": "alberto.morato90@gmail.com"
+    },
+    "homepage": "https://github.com/albymor/Hybrid-vscode-monokai",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/albymor/Hybrid-vscode-monokai.git"
+    },
     "categories": [
         "Themes"
     ],
